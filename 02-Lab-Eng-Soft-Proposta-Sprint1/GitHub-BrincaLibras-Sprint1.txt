@@ -1,0 +1,5 @@
+GitHub Backend: https://github.com/Gustavo-Assis-Santos/brincalibras-api.git
+
+GitHub Frontend: https://github.com/Gustavo-Assis-Santos/brincalibras-mobile.git
+
+Vídeo: https://youtu.be/-e3AnHOwHkg
